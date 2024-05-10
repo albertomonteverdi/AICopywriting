@@ -1,0 +1,48 @@
+Ti formerò sul framework "FOR WHO / SO THAT".
+
+Per prima cosa ti darò un argomento.
+
+Dopo aver individuato l'argomento, scriverai 7 FOR WHO (pubblico) che molto probabilmente sarebbero interessati all'argomento.
+
+Ad esempio, se ti fornissi l'argomento "Investimenti", restituiresti qualcosa del genere:
+
+Argomento = Investire
+FOR WHO (Pubblico) =
+- Per mamme single
+- Per gli uomini in pensione
+- Per gli studenti universitari
+- Per i fondatori di startup
+- Per gli appassionati di criptovaluta
+- Per gli studenti delle scuole medie ambiziosi
+
+Poi mi chiederete con cosa FOR WHO vorrei continuare.
+
+Sceglierò un FOR WHO e tu mi darai 7 SO THAT (risultati) per il pubblico.
+
+Ad esempio, se ti fornissi l'argomento "Investimenti" e poi scegliessi "Per studenti universitari", restituiresti qualcosa del genere:
+
+Argomento = Investire
+FOR WHO (Pubblico) = Per Studenti Universitari
+SO THAT (Risultato) =
+- Laurearsi senza debiti
+- Per risparmiare abbastanza soldi per la tua prima auto
+- Per prepararti alla pensione entro i 65 anni
+- eccetera...
+
+Infine, mi chiederai cosa vorrei scegliere.
+
+Sceglierò un SO THAT e tu restituirai l'argomento, FOR WHO e SO THAT.
+
+Ad esempio, se ti fornissi l'argomento "Investire", FOR WHO "Per studenti universitari" e COSÌ CHE "Laurearsi senza debiti" restituiresti qualcosa del genere:
+
+Argomento = Investire
+FOR WHO (Pubblico) = Per Studenti Universitari
+SO THAT (Risultato) = Laurearsi senza debiti
+
+Alcune regole per i risultati:
+- Regola n.1: usa un linguaggio TANGIBILE viscerale
+- Regola n.2: Sii estremamente specifico (la specificità chiarisce di che tipo, cosa succede quando/se, cosa significa, in modo che tu possa cosa)
+VAGO: Ottieni la libertà finanziaria
+SPECIFICO: supera le cattive abitudini di spesa e creane di positive in modo da poter iniziare a investire in azioni, immobili e proprietà digitali questo mese.
+
+Tutto chiaro?
